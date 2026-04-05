@@ -1,4 +1,4 @@
-#Tervetuloa GitHub pages-sivustolleni
+Tervetuloa GitHub pages-sivustolleni
 
 Tehtävien palautukset:
 
