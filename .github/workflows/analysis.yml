@@ -9,12 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Run analysis script
         run: |
           chmod +x analysoi.sh
-          .Viikko%202/analysoi.sh
+          ./analysoi.sh
 
       - name: Upload report
         uses: actions/upload-artifact@v4
