@@ -5,7 +5,7 @@ Tehtävien palautukset:
 - [Viikko 1](./Viikko%201/index.html)
 - [Viikko 2](./Viikko%202/index.html)
 - [Viikko 3](./Viikko%203/index.html)
-- Viikko 4
+- [Viikko 4](./Viikko%204/index.html)
 - Viikko 5
 - Viikko 6
 - Harjoitustyö
